@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Audrey 2 ",
+      "price": 23.23,
+      "image": "https://files.cults3d.com/uploaders/16718067/illustration-file/8eab9ece-3471-4204-95e1-fac7f3acfde3/20200510_183041.jpg",
+      "id": 8
     }
   ]
 }
